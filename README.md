@@ -1,4 +1,4 @@
-Hi, I'm Raed Al Masri, a programmer Backend Developer. You can find me on:
+Hi, I'm Mohamad Nour Aldeeb , a programmer Backend Developer. You can find me on:
 
 -   `LinkedIn`:https://www.linkedin.com/in/mohamadnour-aldeeb
 
