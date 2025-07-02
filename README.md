@@ -16,6 +16,7 @@ Hi, I'm Mohamad Nour Aldeeb , a programmer Backend Developer. You can find me on
 <img align="left" src="https://img.shields.io/badge/nextjs-black?style=for-the-badge&logo=next.js&badgeColor=010101"/>
 
 <img align="left" src="https://img.shields.io/badge/Cron-Job-chartreuse.svg?style=for-the-badge&logo=Cron-Job&logoColor=white"/>
+
 <br/>
 <br/>
 
@@ -31,9 +32,12 @@ Hi, I'm Mohamad Nour Aldeeb , a programmer Backend Developer. You can find me on
 # 💾 Databases and ORM
 
 <img align="left" src="https://img.shields.io/badge/Sequelize-black?style=for-the-badge&logo=Sequelize&logoColor=blue"/>
+<img align="left" src="https://img.shields.io/badge/TypeORM-FE0803?logo=typeorm&logoColor=fff"/>
 <img align="left" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/> 
 <img align="left" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
- 
+<img align="left" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
 <br/>
 <br/>
 
